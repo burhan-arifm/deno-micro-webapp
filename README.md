@@ -1,7 +1,7 @@
 # Deno Micro Web App
 
-This web app is built using [Oak] middleware framework and [Denodb]() as its ORM
-engine. The app itself is run using [Deno] as runtime engine and typescript as
+This web app is built using [Oak](https://github.com/oakserver/oak) middleware framework and [Denodb](https://github.com/eveningkid/denodb) as its ORM
+engine. The app itself is run using [Deno](https://deno.land/) as runtime engine and typescript as
 its main language. It support MySQL, MariaDB, PostgreSQL, SQLite, and MongoDB as
 its database server.
 
