@@ -1,0 +1,7 @@
+# editor settings
+.vscode
+
+.env
+
+# sqlite db, for test purpose only
+*.sqlite
